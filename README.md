@@ -1,6 +1,5 @@
 <h1 align="center">Hi!! 👋, I'm Yusuf Reza Hasnat</h1>
-<h2 align="center">Programming Enthusiast</h3>
-<h3 align="center">A Computer Science undergrad student from Bangladesh.</h3>
+<h4 align="center">A Computer Science undergrad student from Bangladesh.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnat0006&label=Profile%20views&color=00ff2a&style=plastic" alt="hasnat0006" /> </p>
 
